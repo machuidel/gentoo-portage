@@ -25,7 +25,7 @@ media-libs/libass -enca
 media-libs/libmtp -examples
 media-libs/libpng apng
 media-libs/libsndfile minimal
-media-libs/mesa -classic
+media-libs/mesa classic -llvm
 media-sound/alsa-utils ncurses
 media-tv/v4l-utils -qt4
 media-video/ffmpeg -ieee1394 -encode -openal
