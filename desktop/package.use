@@ -37,6 +37,7 @@ net-irc/weechat lua -ssl -spell
 net-misc/dhcp -ssl -server
 net-p2p/bitcoin-qt -dbus -qrcode
 net-p2p/rtorrent color
+sci-libs/hdf5 -fortran -cxx
 sys-apps/dbus X
 sys-apps/iproute2 -berkdb
 sys-boot/grub -truetype

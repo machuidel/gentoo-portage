@@ -1,11 +1,11 @@
 net-misc/tinc ~amd64
 x11-libs/wxGTK ~amd64
-m11-libs/libva ~amd64
+x11-libs/libva ~amd64
 dev-libs/libnfc ~amd64
 net-misc/netctl ~amd64 # To let it work with DHCP
 net-misc/cadaver ~amd64
 net-wireless/mfoc ~amd64
-edia-video/ffmpeg ~amd64
+media-video/ffmpeg ~amd64
 net-p2p/soulseek-qt ~amd64
 
 # FIREFOX
